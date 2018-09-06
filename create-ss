@@ -1,0 +1,7 @@
+1. wget –no-check-certificate  https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+
+2. chmod +x shadowsocks.sh
+
+3. ./shadowsocks.sh 2>&1 | tee shadowsocks.log
+
+4. aes-256-cfb
